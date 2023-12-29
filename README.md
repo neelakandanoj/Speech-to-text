@@ -1,4 +1,4 @@
-*Model Selection*:
+#*Model Selection*:
 In the Speech to Text conversion using the Transformer based architecture due to the hight performance in pretrained model.The Transformer's self-attention mechanism provides a robust framework for processing both audio and text data simultaneously.
 
 *Data Preprocessing*:
