@@ -1,0 +1,10 @@
+datasets 
+transformers 
+accelerate 
+soundfile 
+librosa 
+evaluate 
+jiwer 
+tensorboard 
+gradio
+whisper
